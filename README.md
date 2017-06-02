@@ -16,7 +16,6 @@ Attempt to create a simple tmux client
 
 ```./manage.sh r```
 
-## Tmux configuration
+## Tmux key mapping sample
 
-Comming soon
-
+I don't think its possible... For now i use the keybiding from my system to split or rotate the tree... Not perfect!
